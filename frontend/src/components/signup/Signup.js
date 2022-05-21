@@ -5,7 +5,7 @@ class Signup extends Component {
     render() {
         return (
             <Container>
-                <h1>Signup</h1>
+                <h1>Signup!</h1>
             </Container>
         );
     }
